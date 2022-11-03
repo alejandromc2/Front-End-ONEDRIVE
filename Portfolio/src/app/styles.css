@@ -1,8 +1,3 @@
-@font-face {
-    font-family: Archivo;
-    src: url("/Downloads/Archivo") format("truetype");
-}
-
 body {
     font-family: Archivo;
     padding: 20px;
