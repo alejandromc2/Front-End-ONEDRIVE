@@ -6,11 +6,12 @@ import { Observable } from 'rxjs'; // Los observables son una colección de even
   providedIn: 'root'
 })
 export class PortfolioService {
+  private apiUrl = 'http://localhost:5051/misDatos';
 
   constructor(private http:HttpClient) { }
 
 
   obtenerDatos():Observable<any>{ // Con este OBSERVABLE el componente espera la respuesta 
-    return this.http.get('src/assets/data/data.json') // El método GET acá espera un .json
+    return this.http.get(this.apiUrl) // El método GET acá espera un .json
   }
 }

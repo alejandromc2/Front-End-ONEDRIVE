@@ -1,0 +1,94 @@
+{
+  "misDatos": {
+  "persona": [
+      {
+      "nombre": "Alejandro",
+      "apellido": "Martín",
+      "edad": "30",
+      "fechaDeNacimiento": "15-09-1992",
+      "domicilio": "Recoleta, CABA",
+      "telefono": "+54 9 11 65059885",
+      "email": "alejandromartin.1592@gmail.com"
+      }
+  ],
+  
+  "educacion": [
+      {
+      "título": "Polimodal en Humanidades y Cs. Sociales",
+      "institucion": "Colegio Prov. N° 713, Esquel, Chubut",
+      "fechaDesde": "2004",
+      "fechaHasta": "2010"
+      },
+      {
+      "título": "Tecnicatura en Dirección Cinematográfica",
+      "institucion": "Universidad del Cine (FUC)",
+      "fechaDesde": "2012",
+      "fechaHasta": "2017"
+      },
+      {
+      "título": "Full Stack Developer Jr.",
+      "institucion": "Ministerio de Desarrollo Productivo",
+      "fechaDesde": "2022",
+      "fechaHasta": "Actualidad"
+      }
+  ],
+
+  "experienciaLaboral": [
+      {
+      "titulo": "Diseñador UX/UI & Front-end dev. Trainee",
+      "empresa": "Asivas",
+      "fechaDesde": "Febrero 2022",
+      "fechaHasta": "Agosto 2022",    
+      "descripcionDeTareas": "Práctica profesional en desarrollo de proyecto de gestión de venta de Energía. Diseño UX/UI a la par de recibir capacitación parcial en Figma e implementación de Tailwind CSS, Vue.js y complementación con PHP, además de Matice para traducciones del inglés al español"
+      },
+      {
+      "titulo": "Docente particular",
+      "empresa": "Freelance",
+      "fechaDesde": "2020",
+      "fechaHasta": "Actualidad",    
+      "descripcionDeTareas": "Dictado de clases particulares de diseño audiovisual en Adobe Premiere Pro y After Effects"
+      },{
+      "titulo": "Filmmaker",
+      "empresa": "Freelance",
+      "fechaDesde": "2015",
+      "fechaHasta": "Actualidad",    
+      "descripcionDeTareas": "Diseño, producción y edición de piezas audiovisuales y fotográficas. Edición de video, motion graphics en Adobe Premiere Pro y After Effects"
+      }
+  ],
+
+  "softwareYTecnologias": [
+      {
+      "nombreSoftware": "Adobe Premiere Pro",
+      "nivelSoftware": "95%"
+      },
+      {
+      "nombreSoftware": "Adobe After Effects",
+      "nivelSoftware": "75%"
+      },
+      {
+      "nombreSoftware": "HTML",
+      "nivelSoftware": "40%"
+      },
+      {
+      "nombreSoftware": "CSS",
+      "nivelSoftware": "40%"
+      },
+      {
+      "nombreSoftware": "Bootstrap",
+      "nivelSoftware": "30%"
+      },
+      {
+      "nombreSoftware": "Tailwind",
+      "nivelSoftware": "40%"
+      },
+      {
+      "nombreSoftware": "JavaScript",
+      "nivelSoftware": "25%"
+      }
+  ],
+
+  "usuarios": [
+      {"nombreUsuario": "Alejandro Martín"}
+  ]
+  }
+}
